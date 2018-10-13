@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "494459243774",
+    "firebase_url": "https://tripmatetest.firebaseio.com",
+    "project_id": "tripmatetest",
+    "storage_bucket": "tripmatetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494459243774:android:98875cd4d4c19298",
+        "android_client_info": {
+          "package_name": "com.example.mussabaheen.check_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494459243774-m9rakkdekk42pi5ffccpkna6agvgu9go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDemH0hpUqW4TEUEOkECy-nWfpNct6c2TE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
