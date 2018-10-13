@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "494459243774",
-    "firebase_url": "https://tripmatetest.firebaseio.com",
-    "project_id": "tripmatetest",
-    "storage_bucket": "tripmatetest.appspot.com"
+    "project_number": "99311416822",
+    "firebase_url": "https://lastcheck-996b4.firebaseio.com",
+    "project_id": "lastcheck-996b4",
+    "storage_bucket": "lastcheck-996b4.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:494459243774:android:98875cd4d4c19298",
+        "mobilesdk_app_id": "1:99311416822:android:98875cd4d4c19298",
         "android_client_info": {
           "package_name": "com.example.mussabaheen.check_fire"
         }
       },
       "oauth_client": [
         {
-          "client_id": "494459243774-m9rakkdekk42pi5ffccpkna6agvgu9go.apps.googleusercontent.com",
+          "client_id": "99311416822-hvt8pi7l6deab1eovrcm66kibt6s0tk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mussabaheen.check_fire",
+            "certificate_hash": "80c8c3286e5301e7cc2b595699bfdee33de8f62a"
+          }
+        },
+        {
+          "client_id": "99311416822-4rpga8mujl0perpkkt4d2m5bdqn3arg0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDemH0hpUqW4TEUEOkECy-nWfpNct6c2TE"
+          "current_key": "AIzaSyCTkwtkvR7eizfnW-q-RwIhXlqVDcy51Qo"
         }
       ],
       "services": {
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99311416822-4rpga8mujl0perpkkt4d2m5bdqn3arg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
